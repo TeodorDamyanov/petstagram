@@ -1,2 +1,2 @@
-# petstagram
-Instagram for pets 
+# Petstagram 🙊
+Instagram for pets 🐶
